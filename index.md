@@ -12,7 +12,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [X] Add code
 - [ ] Add task list
 
-#### H4 Header
+#### H4 header fot activity
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ##### H5 Header
 
