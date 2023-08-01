@@ -1,6 +1,10 @@
-# H1 Header
+# H1 header for image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-## H2 Header
+## H2 header for code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ### H3 Header
 
