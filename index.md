@@ -6,7 +6,11 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-### H3 Header
+### H3 header for task list
+
+- [X] Add image
+- [X] Add code
+- [ ] Add task list
 
 #### H4 Header
 
